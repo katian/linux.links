@@ -1,15 +1,15 @@
-https://github.com/atom/atom/issues (atom)
+atom : https://github.com/atom/atom/issues
 
-https://github.com/snapcrafters/discord/issues (discord)
+discord : https://github.com/snapcrafters/discord/issues
 
-https://gitlab.gnome.org/GNOME/gtk/-/issues (gnome)
+gnome : https://gitlab.gnome.org/GNOME/gtk/-/issues
 
-https://gitlab.gnome.org/GNOME/gnome-shell/-/issues (gnome-shell)
+gnome-shell : https://gitlab.gnome.org/GNOME/gnome-shell/-/issues
 
-https://github.com/lbryio/lbry-desktop/issues (lbry)
+lbry : https://github.com/lbryio/lbry-desktop/issues
 
-https://github.com/RetroShare/RetroShare/issues (retroshare)
+retroshare : https://github.com/RetroShare/RetroShare/issues
 
-https://bugs.launchpad.net/snap-store-desktop (snap-store)
+snap-store : https://bugs.launchpad.net/snap-store-desktop
 
-https://gitlab.gnome.org/GNOME/totem/-/issues (totem)
+totem : https://gitlab.gnome.org/GNOME/totem/-/issues
