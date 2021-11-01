@@ -15,3 +15,5 @@ revolt-chat : https://github.com/revoltchat/desktop/issues
 snap-store : https://bugs.launchpad.net/snap-store-desktop
 
 totem : https://gitlab.gnome.org/GNOME/totem/-/issues
+
+ubuntu mate : https://bugs.launchpad.net/ubuntu-mate/
